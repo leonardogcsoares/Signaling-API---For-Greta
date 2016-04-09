@@ -1,4 +1,4 @@
-# Signaling-API-for-Greta
+# Signaling API for Greta
 
 This is a very simple Signaling API I created, inspired by the one found on [Greta](https://greta.io/documentation/signaling).
 For the browser, the unique Greta script should be placed in the `</head>` tag. For Android, for now as well, the function:
